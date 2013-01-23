@@ -1,0 +1,3 @@
+To compile the program execute the below command:
+$javac -d bin -sourcepath src  src/ma.java
+After compilation to execute the program, run the below command:
